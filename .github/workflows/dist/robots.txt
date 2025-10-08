@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /_astro/
 
-Sitemap: https://neoaxiom.com/sitemap-index.xml
+Sitemap: https://neoaxiomn.github.io/NeoAxiomN/sitemap-index.xml
