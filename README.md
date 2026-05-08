@@ -8,8 +8,6 @@ I'm a CS student at BJTU focused on BCI.
 ### 🔗 Link
 *   Check out my personal website and blog on [neoaxiomn.github.io](https://neoaxiomn.github.io).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoAxiomN&&show_icons=true&theme=monokai)
-
 <!--
 **NeoAxiomN/NeoAxiomN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
